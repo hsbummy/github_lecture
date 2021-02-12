@@ -81,3 +81,21 @@ $ git init
 ~~취소선~~
 
 
+
+
+
+뜽히 알려주는 용도
+
+```html
+<style>
+	
+</style>
+
+<meta charset="utf-8">
+<title></title>
+```
+
+
+
+[구글](https://google.com)
+
