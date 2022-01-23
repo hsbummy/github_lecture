@@ -21,4 +21,4 @@ $ git config --global user.email '____'
 
 ㅋㅋ 메롱
 
-한상범 바보 한상범 멍충이
+한상범 바보 
