@@ -24,3 +24,5 @@ $ git config --global user.email '____'
 한상범 바보 
 
 GIT
+
+hi error
