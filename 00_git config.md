@@ -20,3 +20,5 @@ $ git config --global user.email '____'
 ## VS code로 커밋 메시지 편집하기
 
 [링크](./tips/vscode.md)
+
+한상범 바보 
