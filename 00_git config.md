@@ -19,6 +19,6 @@ $ git config --global user.email '____'
 
 ## VS code로 커밋 메시지 편집하기
 
-[링크](./tips/vscode.md)
+ㅋㅋ 메롱
 
 한상범 바보 한상범 멍충이
