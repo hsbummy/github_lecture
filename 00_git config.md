@@ -32,3 +32,6 @@ hsbummy babo ddongguri ralkeuny heehee
 
 
 hi git bash test
+
+git bash test22 
+?? 엥
