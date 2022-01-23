@@ -21,4 +21,4 @@ $ git config --global user.email '____'
 
 [링크](./tips/vscode.md)
 
-한상범 바보 
+한상범 바보 한상범 멍충이
